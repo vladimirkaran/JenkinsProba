@@ -1,0 +1,3 @@
+proba: napravlili smo webhook / jenkins - github
+kada pushujemo promjene na githubu, automatski se pokrece build.
+job: jenkin_demo
